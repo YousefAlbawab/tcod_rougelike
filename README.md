@@ -9,7 +9,7 @@ This is a simple roguelike game built following a tutorial. The game features ba
 
 ## Installation
 1. Clone this repository:
-git clone <your-repository-url>
+git clone https://github.com/YousefAlbawab/tcod_rougelike.git
 
 2. Navigate to the project directory: cd roguelike-game
 
